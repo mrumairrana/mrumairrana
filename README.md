@@ -155,29 +155,44 @@ Developing responsive and user-friendly web interfaces using modern frontend tec
 
 ---
 
+---
+
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mrumairrana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="tel:+923094093333">
+    <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
-  <a href="https://wa.me/923094093333" target="_blank">
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923094093333">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.tiktok.com/@mromairrana" target="_blank">
+  <a href="https://www.linkedin.com/in/mrumairrana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@mromairrana">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.snapchat.com/add/mromairrana" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
-  </a>
-  <a href="https://codexdeveloper.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Codex Portfolio" />
-  </a>
-  <a href="https://mrumairrana.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
   </a>
 </p>
 
+#### 🌐 My Portfolios
+
+<p align="left">
+  <a href="https://codexdeveloper.vercel.app/">
+    <img src="https://img.shields.io/badge/Codex_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Codex Portfolio" />
+  </a>
+  <a href="https://mrumairrana.vercel.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
+  </a>
+</p>
 
 ---
 
