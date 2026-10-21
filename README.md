@@ -26,9 +26,27 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrumairrana&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mrumairrana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+    alt="Umair Rana's GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrumairrana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mrumairrana&theme=tokyonight&hide_border=true" 
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 
 ---
 
