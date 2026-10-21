@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Umair Rana
 
-### 💻 Full-Stack Developer | React.js | Node.js | Express.js
+### 💻 Full-Stack Developer | React.js | Node.js
 
 I'm a passionate **Full-Stack Developer** specializing in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions using modern web technologies.
 
@@ -49,8 +49,6 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 
 
 ---
-
-### 🤝 Connect With Me
 
 ### 🤝 Connect With Me
 
