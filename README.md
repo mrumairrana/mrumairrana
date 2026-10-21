@@ -34,7 +34,27 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 
 ### 🤝 Connect With Me
 
-- 🌐 **Portfolio:** [Visit My Website](https://codexdeveloper.vercel.app/)
-- 💼 **GitHub:** [@mrumairrana](https://github.com/mrumairrana)
+<p align="left">
+  <a href="https://github.com/mrumairrana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/YOUR-PHONE-NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.tiktok.com/@mromairrana" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.snapchat.com/add/mromairrana" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  </a>
+  <a href="https://codexdeveloper.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-**Thanks for visiting my profile!** ⭐
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.
