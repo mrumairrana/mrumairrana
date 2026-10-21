@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Umair Rana
+# Muhammad Umair Aslam
 
 ### 💻 Full-Stack Developer | React.js | Node.js
 
