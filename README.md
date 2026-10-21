@@ -6,9 +6,9 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 
 - 🔭 **Currently working on:** Modern web applications and business management systems
 - 🌱 **Currently learning:** Advanced React.js, Node.js, REST APIs, and scalable application development
-- 💻 **Tech Stack:** React.js, JavaScript, Node.js, Express.js, HTML5, CSS3, Tailwind CSS
-- 🗄️ **Databases:** MongoDB, PostgreSQL
-- 🛠️ **Tools:** Git, GitHub, Redux, Vite, Docker, Nginx
+- 💻 **Tech Stack:** React.js, JavaScript, Node.js, HTML5, CSS3, Tailwind CSS
+- 🗄️ **Databases:** PostgreSQL
+- 🛠️ **Tools:** Git, GitHub, Docker
 - 👯 **Looking to collaborate on:** Open-source projects and innovative web applications
 - 💬 **Ask me about:** React.js, JavaScript, frontend development, REST APIs, and web application development
 - 📫 **Portfolio:** [codexdeveloper.vercel.app](https://codexdeveloper.vercel.app/)
