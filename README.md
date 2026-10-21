@@ -17,25 +17,46 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 ---
 ---
 
+---
+
 ### 💼 Professional Experience
 
-#### Front-End Web Developer | Einnovention Solutions
-**December 2025 – Present · Lahore, Pakistan**
+##### Backend Developer
 
-- Developing responsive and interactive web applications using React.js, JavaScript, HTML5, and CSS3.
-- Building reusable UI components and maintaining consistent user experiences.
-- Integrating REST APIs and managing application state.
-- Improving application performance, usability, and maintainability.
-- Collaborating with team members to deliver reliable web solutions.
+Aug **2026 – Present**
 
-#### Front-End Developer Intern | Terminus Technologies Limited
-**May 2022 – December 2025 · Lahore, Pakistan**
+- **Terminus Technologies Limited**
+- Lahore, Pakistan
 
-- Assisted in developing responsive web interfaces and application features.
-- Worked with HTML5, CSS3, JavaScript, and modern front-end technologies.
-- Created reusable components and implemented responsive layouts.
-- Troubleshot UI issues and improved cross-browser compatibility.
-- Gained practical experience in collaborative software development and version control using Git.
+Developing and maintaining backend services and RESTful APIs for business applications, focusing on performance, security, and reliable data management.
+
+- Developing RESTful APIs using Node.js and Express.js
+- Integrating PostgreSQL and managing database operations
+- Implementing authentication and authorization
+- Optimizing API performance and database queries
+- Troubleshooting backend issues and improving reliability
+- Collaborating with frontend developers to integrate APIs
+- Using Git and GitHub for version control and team collaboration
+
+---
+
+##### Front-End Web Developer
+
+Apr **2025 – Aug 2026**
+
+- **Einnovention Solutions**
+- Lahore, Pakistan
+
+Developing responsive and user-friendly web interfaces using modern frontend technologies, with an emphasis on reusable components, performance, and maintainable code.
+
+- Building responsive web applications using React.js and JavaScript
+- Creating reusable UI components and layouts
+- Integrating REST APIs with frontend applications
+- Managing application state and data flow
+- Improving website performance and cross-browser compatibility
+- Implementing responsive designs using HTML5, CSS3, and Tailwind CSS
+- Debugging issues and maintaining code quality
+- Collaborating with team members to deliver reliable web solutions
 
 
 
