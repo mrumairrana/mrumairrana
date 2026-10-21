@@ -52,11 +52,13 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 
 ### 🤝 Connect With Me
 
+### 🤝 Connect With Me
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/mrumairrana/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrumairrana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/+923094093333" target="_blank">
+  <a href="https://wa.me/923094093333" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.tiktok.com/@mromairrana" target="_blank">
@@ -66,12 +68,13 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
   </a>
   <a href="https://codexdeveloper.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Codex Portfolio" />
   </a>
   <a href="https://mrumairrana.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
   </a>
 </p>
+
 
 ---
 
