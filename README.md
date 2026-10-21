@@ -59,12 +59,73 @@ Developing responsive and user-friendly web interfaces using modern frontend tec
 - Collaborating with team members to deliver reliable web solutions
 
 
+---
 
 ### 🛠️ Languages and Tools
 
+#### 🎨 Frontend Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,postgres,git,github,vite,docker,nginx" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,redux" alt="Frontend Technologies" />
 </p>
+
+| Skill | Proficiency | Description |
+|---|---:|---|
+| HTML5 | 100% | Creating semantic and well-structured web pages. |
+| React.js | 95% | Building modern, reusable, interactive user interfaces. |
+| JavaScript | 95% | Developing dynamic web applications using modern JavaScript. |
+| CSS3 | 95% | Creating responsive and visually appealing interfaces. |
+| Tailwind CSS | 90% | Building maintainable interfaces with utility-first CSS. |
+| Bootstrap | 90% | Creating responsive layouts and components. |
+| Vite | 90% | Using fast, modern frontend development workflows. |
+| Redux | 90% | Managing application state and complex data flows. |
+
+#### ⚙️ Backend Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,php" alt="Backend Technologies" />
+</p>
+
+| Skill | Proficiency | Description |
+|---|---:|---|
+| Node.js | 95% | Building backend applications and services. |
+| Express.js | 95% | Developing RESTful APIs and backend services. |
+| REST APIs | 95% | Designing, developing, and integrating web APIs. |
+| PostgreSQL | 90% | Managing relational data, queries, and database performance. |
+| MongoDB | 90% | Working with flexible NoSQL data storage. |
+| PHP | 85% | Developing backend functionality and web applications. |
+| SQL | 85% | Working with relational queries and data management. |
+| Authentication | 85% | Implementing authentication and authorization. |
+
+#### 🔧 Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,nginx" alt="Development Tools and DevOps" />
+</p>
+
+| Skill | Proficiency | Description |
+|---|---:|---|
+| Git | 95% | Version control, branching, and collaboration. |
+| GitHub | 95% | Repository management and development workflows. |
+| Linux | 90% | Command-line tools, servers, and development environments. |
+| Docker | 85% | Containerizing applications and development environments. |
+| Nginx | 80% | Configuring reverse proxies and application deployment. |
+| CI/CD | 75% | Understanding automated build, testing, and deployment workflows. |
+
+#### 🚀 Core Development Skills
+
+| Skill | Proficiency | Description |
+|---|---:|---|
+| Problem Solving | 95% | Analyzing technical problems and finding practical solutions. |
+| Responsive Design | 95% | Building interfaces for desktop, tablet, and mobile devices. |
+| API Integration | 95% | Connecting frontend applications with backend services. |
+| Performance Optimization | 90% | Improving application speed and user experience. |
+| Clean Code | 90% | Writing readable, reusable, and maintainable code. |
+| Team Collaboration | 90% | Working with teams to deliver quality software. |
+
+---
+
+
 
 ---
 
