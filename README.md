@@ -163,7 +163,7 @@ Developing responsive and user-friendly web interfaces using modern frontend tec
   <a href="tel:+923094093333">
     <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:omairaslam7262@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/923094093333">
@@ -172,10 +172,10 @@ Developing responsive and user-friendly web interfaces using modern frontend tec
   <a href="https://www.linkedin.com/in/mrumairrana/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME">
+  <a href="https://www.facebook.com/mrumairrana">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+  <a href="https://www.instagram.com/mrumairrana/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@mromairrana">
