@@ -187,10 +187,13 @@ Developing responsive and user-friendly web interfaces using modern frontend tec
 
 <p align="left">
   <a href="https://codexdeveloper.vercel.app/">
-    <img src="https://img.shields.io/badge/Codex_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Codex Portfolio" />
+    <img src="https://img.shields.io/badge/Codex_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Codex Website" />
   </a>
   <a href="https://mrumairrana.vercel.app/">
     <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
+  </a>
+  <a href="https://https://mrumairrana3d.vercel.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" />
   </a>
 </p>
 
