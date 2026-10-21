@@ -15,6 +15,29 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 - ⚡ **Fun fact:** I love learning new technologies and turning complex ideas into simple solutions.
 
 ---
+---
+
+### 💼 Professional Experience
+
+#### Front-End Web Developer | Einnovention Solutions
+**December 2025 – Present · Lahore, Pakistan**
+
+- Developing responsive and interactive web applications using React.js, JavaScript, HTML5, and CSS3.
+- Building reusable UI components and maintaining consistent user experiences.
+- Integrating REST APIs and managing application state.
+- Improving application performance, usability, and maintainability.
+- Collaborating with team members to deliver reliable web solutions.
+
+#### Front-End Developer Intern | Terminus Technologies Limited
+**May 2022 – December 2025 · Lahore, Pakistan**
+
+- Assisted in developing responsive web interfaces and application features.
+- Worked with HTML5, CSS3, JavaScript, and modern front-end technologies.
+- Created reusable components and implemented responsive layouts.
+- Troubleshot UI issues and improved cross-browser compatibility.
+- Gained practical experience in collaborative software development and version control using Git.
+
+
 
 ### 🛠️ Languages and Tools
 
