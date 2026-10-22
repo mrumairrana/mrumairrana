@@ -22,9 +22,6 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, respo
 - ⚡ **Fun fact:** I love learning new technologies and turning complex ideas into simple solutions.
 
 ---
----
-
----
 
 ### 💼 Professional Experience
 
